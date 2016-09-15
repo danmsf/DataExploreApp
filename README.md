@@ -14,5 +14,5 @@ I use this for helpnig to make meaningful categories from continuous variables i
 Mostly for preparing data variables prior to running a logistic regression.
 
 ## Package Dependencies
-Is currently dependant on ggplot2 but that can easily be tweaked
-And of course the Shiny package
+* Is currently dependant on `ggplot2` but that can easily be tweaked
+* And of course the `Shiny` package
