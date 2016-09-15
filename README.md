@@ -10,7 +10,8 @@ R code that creates a Shiny App showing a graphic relationship between 2 variabl
 
 ## Main use
 
-I use this for helpnig to make meaningful categories from continuous variables in relation to an explanatory variable.
+I use this to help make meaningfull categories from continuous variables in relation to an explanatory variable.   
+
 Mostly for preparing data variables prior to running a logistic regression.
 
 ## Package Dependencies
